@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Dotfiles / dot-directories (env files, OS metadata, editor dirs, etc.)
+.*
+!.gitignore
+
+# Next.js build output
+.next/
+
+# TypeScript compiled output
+dist/
+
+# Logs
+*.log
